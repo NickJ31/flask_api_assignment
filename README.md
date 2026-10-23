@@ -23,6 +23,7 @@ From the project folder, run:
 
 Application will run locally at:
 http://127.0.0.1:5000
+
 When ran the HTTP above will be generated and you copy and paste that into the URL box in any web browser.
 ## API Examples
 ### Hello endpoint
